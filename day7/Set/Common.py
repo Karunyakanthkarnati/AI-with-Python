@@ -1,0 +1,5 @@
+l1 = list(map(int,input("Enter Elements : ").split()))
+l2 = list(map(int,input("Enter Elements : ").split()))
+a = set(l1)
+b = set(l2)
+print("common elements are ",a&b)
