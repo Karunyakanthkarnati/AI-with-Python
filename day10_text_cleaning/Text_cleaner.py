@@ -1,0 +1,5 @@
+text = input("Enter the text :")
+text = text.lower()
+text = text.replace("!","")
+text = text.replace(".","")
+print(text)
