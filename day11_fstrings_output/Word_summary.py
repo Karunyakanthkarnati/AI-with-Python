@@ -1,4 +1,4 @@
-text = input("Exter the text : ")
+text = input("Enter the text : ")
 words = text.strip().lower().split()
 unique_words = set(words)
 print(f"The no.of words are {len(words)}")
