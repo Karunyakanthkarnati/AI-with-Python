@@ -1,0 +1,5 @@
+text = input("Exter the text : ")
+words = text.strip().lower().split()
+unique_words = set(words)
+print(f"The no.of words are {len(words)}")
+print(f"The no.of unique words are {len(unique_words)}")
