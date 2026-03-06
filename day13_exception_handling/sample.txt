@@ -1,0 +1,3 @@
+AI is the future.
+Python is powerful.
+Clean data builds good AI.
