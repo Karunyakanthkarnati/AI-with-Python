@@ -1,0 +1,4 @@
+--- FILE ANALYSIS REPORT ---
+Total Words: 11
+Unique Words: 9
+----------------------------
